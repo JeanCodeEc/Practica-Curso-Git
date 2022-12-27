@@ -3,8 +3,38 @@ body{
     background-color: #000000;
     color: #ffffff;
 }
-
+h1{
+    font-size : 4rem;
+}
 p{
     font-size: 16px;
 }
+.text-center{
+    text-align: center;
+}
 /*Final Estilos Globales*/
+
+.container{
+    width: 80%;
+    margin : 0 auto;
+    padding: 2rem;
+    border: 1px solid #ffffff;
+}
+.post h1{
+    font-size: 40px;
+}
+.post p{
+    margin-bottom: 2rem;
+}
+.button{
+    padding: 10px;
+    background-color: #ffffff;
+    color: #000000;
+    border: 2px solid #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.button:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
