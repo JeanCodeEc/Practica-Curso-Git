@@ -6,6 +6,9 @@ body{
 h1{
     font-size : 4rem;
 }
+h2{
+    margin: 0;
+}
 p{
     font-size: 15px;
 }
@@ -17,8 +20,21 @@ p{
 .container{
     width: 80%;
     margin : 0 auto;
-    padding: 2rem;
     border: 1px solid #ffffff;
+    box-shadow: 10px 10px 5px 0px rgba(209,209,209,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(209,209,209,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(209,209,209,0.75);
+}
+.cabecera{
+    background-color: cadetblue;
+    padding: 1rem;
+}
+.cabecera h2{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+.post{
+    padding: 1rem;
 }
 .post h1{
     font-size: 40px;
@@ -33,6 +49,7 @@ p{
     border: 2px solid #ffffff;
     text-decoration: none;
     text-transform: uppercase;
+    display: inline-block;margin-bottom: 2rem;
 }
 .button:hover{
     background-color: #000000;
