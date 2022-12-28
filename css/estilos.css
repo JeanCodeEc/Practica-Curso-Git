@@ -24,6 +24,7 @@ p{
     box-shadow: 10px 10px 5px 0px rgba(209,209,209,0.75);
 -webkit-box-shadow: 10px 10px 5px 0px rgba(209,209,209,0.75);
 -moz-box-shadow: 10px 10px 5px 0px rgba(209,209,209,0.75);
+margin-bottom: 2rem;
 }
 .cabecera{
     background-color: rgb(204, 75, 15);
