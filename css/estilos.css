@@ -26,11 +26,7 @@ p{
 -moz-box-shadow: 10px 10px 5px 0px rgba(209,209,209,0.75);
 }
 .cabecera{
-<<<<<<< HEAD
     background-color: rgb(41, 4, 173);
-=======
-    background-color: rgb(204, 75, 15);
->>>>>>> cabecera
     padding: 1rem;
 }
 .cabecera h2{
