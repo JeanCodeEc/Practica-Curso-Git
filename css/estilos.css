@@ -56,3 +56,10 @@ margin-bottom: 2rem;
     background-color: #000000;
     color: #ffffff;
 }
+footer p{
+    text-align: center;
+}
+footer span{
+    color: red;
+    font-size: 1.5rem;
+}
